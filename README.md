@@ -40,7 +40,7 @@ clientélisme épistémique, liberté épistémique, ouverture fiduciaire, épis
 Peter Kahl, Vers une cité des libres penseurs : Une odyssée à travers les théâtres du savoir (Lex et Ratio Ltd 2025) <https://github.com/Peter-Kahl/Vers-une-cite-des-libres-penseurs>
 ```
 
-### Publisher & Licence
+### Éditeur et licence
 
 Publié pour la première fois en Grande-Bretagne par Lex et Ratio Ltd le 3 septembre 2025.
 
