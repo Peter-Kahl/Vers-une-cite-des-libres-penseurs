@@ -22,7 +22,7 @@ Le cycle culmine dans un manifeste de la pensée désentravée. Il appelle à un
 
 ### Note de l’auteur sur la publication
 
-This work is published as two independent but parallel versions — one in English, one in French — to test and exemplify epistemic plurality across linguistic domains.
+Ce travail sera publié en deux versions indépendantes mais parallèles — l’une en anglais, l’autre en français — afin de mettre à l’épreuve et d’illustrer la pluralité épistémique dans ses dimensions linguistiques.
 
 ### Mots-clés
 
