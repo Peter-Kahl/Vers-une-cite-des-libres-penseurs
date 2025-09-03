@@ -22,7 +22,7 @@ Le cycle culmine dans un manifeste de la pensée désentravée. Il appelle à un
 
 ### Note de l’auteur sur la publication
 
-Ce travail sera publié en deux versions indépendantes mais parallèles — l’une en anglais, l’autre en français — afin de mettre à l’épreuve et d’illustrer la pluralité épistémique dans ses dimensions linguistiques.
+Ce travail sera publié en deux versions indépendantes mais parallèles — l’une en [anglais](https://github.com/Peter-Kahl/Toward-a-City-of-Free-Thinkers), l’autre en français — afin de mettre à l’épreuve et d’illustrer la pluralité épistémique dans ses dimensions linguistiques.
 
 ### Mots-clés
 
