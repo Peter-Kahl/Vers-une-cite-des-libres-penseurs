@@ -4,7 +4,7 @@
 
 #### _Une odyssée poético-philosophique à travers la dépendance étudiante, le théâtre institutionnel, le sceau de l’accréditation, la faille du doute, et la cité des libres penseurs_
 
-![alt text](https://github.com/Peter-Kahl/Toward-a-City-of-Free-Thinkers/blob/main/manifesto_of_free_thinker.jpg?raw=true)
+![alt text](https://github.com/Peter-Kahl/Vers-une-cite-des-libres-penseurs/blob/main/manifesto_of_free_thinker.jpg?raw=true)
 
 rédigé par Peter Kahl, le 3 septembre 2025
 
@@ -32,7 +32,7 @@ clientélisme épistémique, liberté épistémique, ouverture fiduciaire, épis
 
 ### Téléchargez ce travail académique dans son intégralité au format PDF, ou pour le partager et le citer :
 
-- [Télécharger ici (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Toward-a-City-of-Free-Thinkers/master/Kahl_P_Vers_une_cite_des_libres_penseurs_03-SEP-2025.pdf)
+- [Télécharger ici (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Vers-une-cite-des-libres-penseurs/master/Kahl_P_Vers_une_cite_des_libres_penseurs_03-SEP-2025.pdf)
 
 ### Citer ce travail :
 
