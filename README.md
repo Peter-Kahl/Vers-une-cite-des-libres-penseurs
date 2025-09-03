@@ -24,6 +24,14 @@ Le cycle culmine dans un manifeste de la pensée désentravée. Il appelle à un
 
 Ce travail sera publié en deux versions indépendantes mais parallèles — l’une en [anglais](https://github.com/Peter-Kahl/Toward-a-City-of-Free-Thinkers), l’autre en français — afin de mettre à l’épreuve et d’illustrer la pluralité épistémique dans ses dimensions linguistiques.
 
+_Vers une cité des libres penseurs : Une odyssée à travers les théâtres du savoir_ (français) et [_Toward a City of Free Thinkers: A Journey across the Theatres of Knowledge_](https://github.com/Peter-Kahl/Toward-a-City-of-Free-Thinkers) (anglais) ne sont pas de simples publications parallèles. Ils constituent en eux-mêmes des actes de liberté épistémique.
+
+Ce travail résiste aux frontières habituelles de la philosophie. Il n’est ni un traité ni un recueil de poèmes, mais une enquête multimodale — poésie, essai et image y parlent comme des registres égaux de pensée. Penser libre, ce n’est pas seulement critiquer les institutions du savoir, de l’accréditation et du silence, c’est aussi refuser la contrainte d’un idiome unique.
+
+La publication en anglais inscrit le projet dans les débats sur l’injustice épistémique, les devoirs fiduciaires et la démocratie épistémique. La publication en français l’ancre dans la lignée de Foucault, Bourdieu, Derrida et Fanon — traditions qui ont longuement interrogé le pouvoir, le silence et l’émancipation. Ensemble, elles affirment que la critique doit être polyphonique, et non enfermée dans un seul domaine linguistique.
+
+Ce manifeste bilingue met en acte ce qu’il énonce : le savoir ne doit pas être scellé, possédé ou monopolisé, mais partagé comme une confiance fiduciaire. Il invite ses lecteurs à douter, à refuser, et à imaginer une _cité des libres penseurs_ où la vérité circule comme bien commun.
+
 ### Mots-clés
 
 clientélisme épistémique, liberté épistémique, ouverture fiduciaire, épistémocratie, injustice épistémique, devoirs fiduciaires, pluralité épistémique, agentivité épistémique, philosophie multimodale, épistémologie démocratique, critique institutionnelle, enseignement supérieur, silence, accréditation, émancipation, manifeste
