@@ -4,9 +4,9 @@
 
 #### _Une odyssée poético-philosophique à travers la dépendance étudiante, le théâtre institutionnel, le sceau de l’accréditation, la faille du doute, et la cité des libres penseurs_
 
-![alt text](https://github.com/Peter-Kahl/Vers-une-cite-des-libres-penseurs/blob/main/manifesto_of_free_thinker.jpg?raw=true)
-
 rédigé par Peter Kahl, le 3 septembre 2025
+
+![alt text](https://github.com/Peter-Kahl/Vers-une-cite-des-libres-penseurs/blob/main/manifesto_of_free_thinker.jpg?raw=true)
 
 ---
 
