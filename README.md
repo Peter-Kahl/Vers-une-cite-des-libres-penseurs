@@ -2,13 +2,11 @@
 
 ### Une odyssée à travers les théâtres du savoir
 
-#### _Une odyssée poético-philosophique à travers la dépendance étudiante, le théâtre institutionnel, le sceau de l’accréditation, la faille du doute, et la cité des libres penseurs_
+#### _Un manifeste multimodal — poésie, essai, image — qui refuse le clientélisme épistémique et affirme que l’émancipation commence par le doute, le silence et le refus._
 
 rédigé par Peter Kahl, le 3 septembre 2025
 
 ![alt text](https://github.com/Peter-Kahl/Vers-une-cite-des-libres-penseurs/blob/main/manifesto_of_free_thinker.jpg?raw=true)
-
----
 
 ### Résumé
 
