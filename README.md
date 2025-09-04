@@ -43,7 +43,7 @@ clientélisme épistémique, liberté épistémique, ouverture fiduciaire, épis
 ### Citer ce travail :
 
 ```
-Peter Kahl, Vers une cité des libres penseurs : Du précipice du savoir aux horizons de l’émancipation (Lex et Ratio Ltd 2025) <https://github.com/Peter-Kahl/Vers-une-cite-des-libres-penseurs>
+Peter Kahl, Vers une cité des libres penseurs : Du précipice du savoir aux horizons de l’émancipation (deuxième édition, Lex et Ratio Ltd 2025) <https://github.com/Peter-Kahl/Vers-une-cite-des-libres-penseurs>
 ```
 
 ### Éditeur et licence
